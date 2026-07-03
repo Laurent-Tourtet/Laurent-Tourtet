@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SvelteKit+%7C+Node.js+%7C+Supabase;Applications+M%C3%A9tier;Intelligence+Artificielle;Automation+%26+API" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Laurent+Tourtet;Full+Stack+Developer;SvelteKit+%7C+Node.js+%7C+Supabase;Business+Applications;AI+Solutions;Automation+%26+APIs" />
 </p>
 
 <p align="center">
