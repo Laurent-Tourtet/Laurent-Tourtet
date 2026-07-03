@@ -1,74 +1,174 @@
-## Hello 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SvelteKit+%7C+Node.js+%7C+Supabase;Applications+M%C3%A9tier;Intelligence+Artificielle;Automation+%26+API" />
+</p>
 
-# Laurent Tourtet - Développeur Web Full Stack
+<p align="center">
+  <a href="https://yautedev.fr">
+    <img src="https://img.shields.io/badge/Website-yautedev.fr-green?style=for-the-badge">
+  </a>
 
-**Adresse**: 9, rue Léandre Vaillat, 74000 Annecy    
-**Email**: contact@yautedev.fr  
-[LinkedIn](https://linkedin.com/in/tourtet-laurent-a7016164)
+  <a href="https://linkedin.com/in/tourtet-laurent-a7016164">
+    <img src="https://img.shields.io/badge/LinkedIn-Laurent_Tourtet-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
----
+  <img src="https://komarev.com/ghpvc/?username=Yautedev&style=for-the-badge">
+</p>
 
-## À propos de moi
 
-Développeur passionné avec une expérience en création de sites web et applications backend. Compétences solides en **SvelteKit**, **Node.js**, gestion de bases de données (**PostgreSQL**, **Firebase**) et déploiement d'applications sur des environnements cloud (**AWS**). Capable de m'adapter rapidement à de nouveaux frameworks comme **React** et **Angular**.
+# 👋 Bonjour, moi c'est Laurent Tourtet
 
----
+### Full Stack Web Developer • SvelteKit • Node.js • IA • Applications Métier
 
-## Compétences Techniques
+Je développe des applications web modernes qui répondent à des besoins métier concrets.
 
-- **Front-end** : SvelteKit, JavaScript (ES6+), HTML5, CSS3, React, Angular (adaptable)
-- **Back-end** : Node.js (Express.js), WordPress (sites vitrine)
-- **Bases de données** : PostgreSQL, Firebase, MySQL
-- **Cloud & Outils DevOps** : Docker, AWS (EC2), Linux (gestion de serveurs)
-- **Autres** : Git, Webpack, API REST, conversion de fichiers SQL (Postgres vers MySQL)
+Aujourd'hui, je travaille principalement sur :
 
----
-
-## Expériences Professionnelles
-
-### Développeur Web Freelance  
-*Mai 2023 - Présent*  
-- Création de plusieurs sites vitrines sous WordPress, avec gestion complète du back-end et intégration front-end.
-- Développement d'une application de conversion de fichiers SQL, permettant de migrer des données de PostgreSQL vers MySQL.
-- Utilisation de SvelteKit et Node.js pour des projets web dynamiques, y compris l'intégration d'API et la gestion des utilisateurs.
-- Déploiement et maintenance d'applications sur des serveurs AWS EC2, avec conteneurisation via Docker.
-
-### Contrôleur Qualité & Technicien Télécoms  
-*Amplitel (Filiale Bouygues Télécom) | Mai 2018 - Février 2023*  
-- Vérification de la qualité des installations de fibre optique et de réseaux ADSL.
-- Responsable des opérations techniques et du contrôle qualité, garantissant la conformité des normes de l'industrie des télécommunications.
-
-### Technicien Polyvalent | Conducteur Accompagnateur PMR  
-*ADIMC 74 | 2013 - 2016*  
-- Gestion des déplacements et accompagnement des personnes à mobilité réduite, en assurant un service sûr et adapté à leurs besoins spécifiques.
+- 🚀 des applications métier sur mesure
+- 🤖 l'intégration de l'IA dans les entreprises
+- 🌐 des sites web performants et optimisés SEO
+- ⚙️ des API et outils d'automatisation
 
 ---
 
-## Formations
+# 🛠 Stack principale
 
-- Développement Web Full Stack (JavaScript, SvelteKit, Node.js, PostgreSQL, Docker) , Ecole Oclock.
-- Formation interne chez Amplitel : Contrôleur qualité en fibre optique et habilitation électrique H0B0
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+## Front-end
+
+- SvelteKit
+- Svelte 5
+- JavaScript / TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+## Back-end
+
+- Node.js
+- Express
+- API REST
+- WordPress
+
+## Bases de données
+
+- PostgreSQL
+- Supabase
+- MySQL
+- Firebase
+
+## DevOps
+
+- Docker
+- Linux
+- AWS EC2
+- Git
+- GitHub
 
 ---
 
-## Projets Notables
+# 🚀 Projets
 
-- **Application de conversion SQL** : Développement d’un outil de migration des bases de données de PostgreSQL vers MySQL.
-- **Sites vitrines** : Réalisation de plusieurs sites vitrine pour des clients via WordPress, avec personnalisation des thèmes et plugins.
+## G-T-PMR
+
+Application SaaS destinée à la gestion des transports PMR.
+
+Fonctionnalités :
+
+- planning
+- gestion des véhicules
+- gestion des chauffeurs
+- tournées
+- pointages
+- incidents
+- statistiques
+
+Technologies :
+
+SvelteKit • Node.js • PostgreSQL • Supabase
 
 ---
 
-## Compétences Transversales
+## Assistant IA Entreprise
 
-- Autonome et rigoureux dans la gestion de projets complexes
-- Capacité à travailler sous pression et à respecter les délais
-- Fort sens des responsabilités et bonne gestion des relations clients
+Configuration d'assistants IA capables de :
+
+- traiter les emails
+- préparer les devis
+- gérer les agendas
+- automatiser les tâches administratives
+- connecter Gmail, Drive et d'autres services
 
 ---
 
-## Langues
+## Bot de Trading IA
 
-- **Français** : Langue maternelle
-- **Anglais** : Niveau intermédiaire (lecture et compréhension technique)
+Projet personnel de trading algorithmique utilisant :
 
+- Binance API
+- IA (Gemini/OpenAI)
+- SvelteKit
+- Supabase
+- Analyse technique
+- Paper Trading
+
+---
+
+## Sites Web Professionnels
+
+Création de sites vitrines performants pour les artisans, TPE et PME :
+
+- SvelteKit
+- WordPress
+- SEO
+- Performance
+- Accessibilité
+
+---
+![Laurent's GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TON_PSEUDO&theme=tokyonight)
+# 💻 Ce que j'aime développer
+
+- Applications métier
+- Outils de productivité
+- Automatisation
+- Intelligence artificielle
+- SaaS
+- Interfaces modernes
+- API
+- Dashboards
+
+---
+
+# 📚 J'apprends actuellement
+
+- IA générative
+- Agents IA
+- MCP
+- Automatisation avancée
+- Architecture SaaS
+
+---
+
+# 📫 Me contacter
+
+🌍 https://yautedev.fr
+
+📧 contact@yautedev.fr
+
+💼 LinkedIn
+
+https://linkedin.com/in/tourtet-laurent-a7016164
+
+---
+
+> "Le meilleur logiciel est celui qui fait gagner du temps à son utilisateur."
