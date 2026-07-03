@@ -3,7 +3,7 @@
 # Laurent Tourtet - Développeur Web Full Stack
 
 **Adresse**: 9, rue Léandre Vaillat, 74000 Annecy    
-**Email**: lolodevweb@gmail.com  
+**Email**: contact@yautedev.fr  
 [LinkedIn](https://linkedin.com/in/tourtet-laurent-a7016164)
 
 ---
